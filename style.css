@@ -1,0 +1,65 @@
+body{
+      background-image: url(background.jpg);
+      background-size: cover;
+      font-family: 'Open Sans', sans-serif;
+      font-family: 'Roboto', sans-serif;
+}
+
+.box{
+      background-color: rgba(0, 0, 0, 0.6);
+      margin: 3% 20% 10%;
+      border-radius: 15px;
+      padding: 5%;
+}
+
+.logo{
+      width: 25%;
+      display: block;
+      margin: auto;
+}
+
+h2{
+      color: lime;
+      margin: 0.5%;
+      text-align: center;
+}
+
+nav{
+      background-color: lime;
+      padding: 10px;
+      text-align: center;
+}
+
+h3{
+      display: inline;
+}
+
+.user{
+      color: white;
+      padding-top: 4%;
+}
+
+.user > div{
+      margin: 0.4%;
+      font-size: 75%;
+}
+
+.charge{
+      height: 22px;
+      border-radius: 5px;
+}
+
+.bar1{
+      background-color: orange;
+      width: 35%;
+}
+
+.bar2{
+      background-color: rgb(3, 180, 3);
+      width: 60%;
+}
+
+.bar3{
+      background-color: red;
+      width: 15%;
+}
